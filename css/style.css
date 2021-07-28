@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.header-bg-color{
+    background-color: #FFF9F4;
+}
+.logo-width{
+    width: 220px;
+}
+.nike-text-1{
+    color: #FA804C;
+    font-size: 80px;
+    font-weight: 700;
+
+}
+.nike-text-2{
+    color: #363958;
+    font-weight: 700;
+    font-size: 80px;
+}
+.para-text{
+    color: #363958;
+    font-weight: 400;
+    font-size: 30px;
+
+}
+.img-cart{
+    width: 30px;
+    height: 30px;
+}
+
+.btn-buy-now{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    padding: 18px 33px;
+    
+}
+.casual-h1{
+    color: #363958;
+    font-weight: 700;
+}
+.image-bg-color{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.card-border{
+    border-radius: 20px;
+}
+.card-text-design{
+    font-weight: 700;
+    font-size: 24px;
+    color: #363958;
+}
+.price-text{
+    color: #FA804C;
+}
+.feature-card-width-height{
+    width: 489px;
+    height: 135px;
+}
